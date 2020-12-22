@@ -11,3 +11,5 @@ while True:
 
     if predict_number > number:
         print("Число должно быть меньше!")
+
+    elif predict_number < number:
