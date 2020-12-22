@@ -10,3 +10,4 @@ while True:
     predict_number = int(input("Угадай число от 1 до 100"))
 
     if predict_number > number:
+        print("Число должно быть меньше!")
