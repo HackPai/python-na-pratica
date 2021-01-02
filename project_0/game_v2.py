@@ -1,3 +1,3 @@
 import numpy as np
 
-def r
+def ra
