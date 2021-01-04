@@ -1,3 +1,3 @@
 import numpy as np
 
-def ra
+def rand
