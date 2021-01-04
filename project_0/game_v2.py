@@ -1,3 +1,3 @@
 import numpy as np
 
-def rand
+def random_p
