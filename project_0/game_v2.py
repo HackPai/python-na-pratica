@@ -1,3 +1,3 @@
 import numpy as np
 
-def random_pre
+def random_pred
