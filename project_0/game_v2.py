@@ -1,3 +1,3 @@
 import numpy as np
 
-def random_predi
+def random_predict(nu
