@@ -7,4 +7,4 @@ def random_predict(number:int=1) -> int:
         number (int, optional): Загаданное число. Defaults to 1.
 
     Returns:
- 
+    
