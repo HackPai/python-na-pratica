@@ -12,4 +12,4 @@ def random_predict(number:int=1) -> int:
 
     count = 0
 
-    while T
+    while Tru
