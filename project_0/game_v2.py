@@ -14,4 +14,4 @@ def random_predict(number:int=1) -> int:
 
     while True:
         count += 1
-        predict_number = np.random.r
+        predict_number = np.random.ran
