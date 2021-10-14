@@ -18,4 +18,4 @@ def random_predict(number:int=1) -> int:
         if number == predict_number:
             break # выход из цикла, если угадали
     return(count)
-def score_ga
+def score_gam
