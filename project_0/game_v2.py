@@ -19,4 +19,4 @@ def random_predict(number:int=1) -> int:
             break # выход из цикла, если угадали
     return(count)
 def score_game(random_predict) -> int:
-    """За какое количеств
+    """За какое количество п
