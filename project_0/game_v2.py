@@ -22,4 +22,4 @@ def score_game(random_predict) -> int:
     """За какое количество попыток в среднем за 1000 подходов угадывает наш алгоритм
 
     Args:
-        random_predict ([type]
+        random_predict ([type]): фу
