@@ -24,4 +24,4 @@ def score_game(random_predict) -> int:
     Args:
         random_predict ([type]): функция угадывания
 
-    R
+    Retu
