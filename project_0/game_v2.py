@@ -25,4 +25,4 @@ def score_game(random_predict) -> int:
         random_predict ([type]): функция угадывания
 
     Returns:
-        int: среднее количество попы
+        int: среднее количество попыто
