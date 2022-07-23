@@ -29,4 +29,4 @@ def score_game(random_predict) -> int:
     """
 
     count_ls = [] # список для сохранения количества попыток
-    np.random.seed(1) # фиксируем сид для воcпроизводимост
+    np.random.seed(1) # фиксируем сид для воcпроизводимости
