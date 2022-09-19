@@ -32,4 +32,4 @@ def score_game(random_predict) -> int:
     np.random.seed(1) # фиксируем сид для воcпроизводимости
     random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел
 
-    for number in random_arra
+    for number in random_array
