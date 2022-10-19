@@ -35,4 +35,4 @@ def score_game(random_predict) -> int:
     for number in random_array:
         count_ls.append(random_predict(number))
 
-    score = 
+    score = i
